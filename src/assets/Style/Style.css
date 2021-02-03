@@ -30,9 +30,18 @@
   font-family: 'Roboto', sans-serif;
 }
 
-.accent_button {
+.accent_button_clear {
   font-family: 'Roboto', sans-serif;
   color: #eb4a42;
+}
+
+.accent_button_copy:hover {
+  font-family: 'Roboto', sans-serif;
+  color: #eb4a42;
+}
+
+.accent_button_copy {
+  color: white;
 }
 
 .unimportan_text {
@@ -59,8 +68,14 @@
   font-weight: bold;
 }
 
+.url_table:hover {
+  margin-left: -8px;
+  padding-left: 5px;
+  border-left: solid #eb4a42 3px;
+}
+
 hr {
   margin-top: -10px;
-  border: solid #eb4a42 2px;
-  border-radius: 10px;
+  border: solid #eb4a42 3px;
+  border-radius: 12px;
 }
