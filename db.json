@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "id": 1612429020465,
+      "shortUrl": "shooooort.com/",
+      "shortCode": "f2ks4js",
+      "url": "skdmakdmwkad",
+      "followUp": {
+        "visited": "1234",
+        "lastVisited": " days ago"
+      }
+    },
+    {
+      "id": 1612429030253,
+      "shortUrl": "shooooort.com/",
+      "shortCode": "f2ks4js",
+      "url": "adasdadda",
+      "followUp": {
+        "visited": "1234",
+        "lastVisited": " days ago"
+      }
+    },
+    {
+      "id": 1612429080384,
+      "shortUrl": "shooooort.com/",
+      "shortCode": "f2ks4js",
+      "url": "adw",
+      "followUp": {
+        "visited": "1234",
+        "lastVisited": " days ago"
+      }
+    }
+  ]
+}
